@@ -8,7 +8,7 @@
 </p>
 
 
-<br/><br/>
+<br/>
 
 <!-- Profile Views & Followers Badges -->
 <img src="https://komarev.com/ghpvc/?username=ab76hay&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -98,7 +98,7 @@ public class AbhayBhatt {
 
 | 🖥️ Project | 📝 Description | 🛠️ Tech Stack |
 |---|---|---|
-| 🌐 **Bhola.ai** | Figma to responsive website with JS animations | HTML, CSS, JS, Figma |
+| 🌐 **[Bhola.ai](http://Bhola.ai)** | Figma to responsive website with JS animations | HTML, CSS, JS, Figma |
 | 🏠 **Ritz-Craft** | Real estate platform — Figma to web conversion | HTML, CSS, JS |
 | 🔗 **API Integration** | Real-time data fetching via REST APIs | Python, Requests |
 | 👑 **N-Queens Solver** | Backtracking algorithm solution | Python, Recursion |
@@ -127,20 +127,24 @@ public class AbhayBhatt {
 
 <div align="center">
 
+<!-- Stats + Languages side by side -->
 <img src="https://github-readme-stats.vercel.app/api?username=ab76hay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab76hay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 <br/><br/>
 
+<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab76hay&theme=tokyonight&hide_border=true&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" width="70%"/>
 
 <br/><br/>
 
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ab76hay&theme=tokyo-night&hide_border=true&area=true&area_color=6AD3F7&line=6AD3F7&point=FF6B6B" width="95%"/>
 
 <br/><br/>
 
+<!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=ab76hay&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" width="95%"/>
 
 </div>
@@ -151,27 +155,14 @@ public class AbhayBhatt {
 
 ```
 🌐 HTML / CSS          ████████████████████░   90%
-⚡ JavaScript          ████████████████░░░░░   75%
+⚙️  JavaScript          ████████████████░░░░░   75%
 🅱️  Bootstrap           ████████████████████░   90%
 ☕  Java               ████████████████░░░░░   75%
 🐍 Python              ██████████████░░░░░░░   70%
 🎨 Figma / UI Design   ████████████████████░   85%
 🗄️  MySQL               █████████████░░░░░░░░   65%
-⚛️  React.js            █████████░░░░░░░░░░░░   40%  ← Learning!
+
 ```
-
----
-
-## 🐍 Contribution Snake
-
-<!-- ✅ FIXED Snake Animation — uses GitHub Actions generated SVG -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ab76hay/ab76hay/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ab76hay/ab76hay/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ab76hay/ab76hay/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-> ⚠️ **Snake not showing?** You need to set up the GitHub Action — see the `snake.yml` file in this repo.
 
 ---
 
@@ -189,7 +180,17 @@ public class AbhayBhatt {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ab76hay/ab76hay/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ab76hay/ab76hay/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ab76hay/ab76hay/output/github-snake.svg"/>
+</picture>
+
+<br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
 
 **⭐ If you like my work, consider giving my repos a star! It means a lot 🙏**
 
