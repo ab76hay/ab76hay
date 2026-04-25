@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Abhay%20Bhatt%20/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Abhay%20Bhatt%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UX%2FUI%20Designer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18"/>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;Java+Programmer;Bootstrap+%7C+HTML+%7C+CSS;Always+learning+new+things!" alt="Typing SVG" />
 </p>
@@ -178,16 +177,7 @@ public class AbhayBhatt {
 
 ---
 
-<div align="center">
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ab76hay/ab76hay/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ab76hay/ab76hay/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ab76hay/ab76hay/output/github-snake.svg"/>
-</picture>
-
-<br/>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
