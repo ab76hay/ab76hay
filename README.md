@@ -1,72 +1,199 @@
+<div align="center">
 
-# Hi, I'm Abhay Bhatt 👋
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Abhay%20Bhatt%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UX%2FUI%20Designer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18"/>
 
-🎓 B.Tech Computer Science (Software Engineering) @ Dr. Virendra Swaroop Group of Institutions | GPA: 8.1
-💼 Tech / UX/UI Design Intern @ Anshumat Foundation (Remote)
-📍 Firozabad, Uttar Pradesh, India
-🌱 Currently learning: React.js & Full Stack Development
-🚀 Open to: Internships, Freelance & Full-time Roles
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+%40+Dr.+Virendra+Swaroop+GI;Tech+%26+UX%2FUI+Intern+%40+Anshumat+Foundation;Full+Stack+Developer+in+the+Making+🚀;Open+to+Internships+%26+Freelance+Roles+💼;Learning+React.js+Every+Day+⚛️" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- Profile Views & Followers Badges -->
+<img src="https://komarev.com/ghpvc/?username=ab76hay&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/ab76hay?label=Followers&style=for-the-badge&color=6AD3F7" alt="Followers"/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</div>
 
 ---
 
-## 💼 Experience
+## 🧑‍💻 About Me
 
-**Tech / UX/UI Design Intern — Anshumat Foundation**
-📅 March 2026 – September 2026 | 🌐 Remote
-- Building tech & design solutions for social impact
-- Converting Figma designs to responsive web pages
-- Contributing to the mission: Educate. Employ. Empower.
+```java
+public class AbhayBhatt {
 
-**Intern (Delivery Team) — Buddy4Study**
-📅 January 2026 – March 2026 | 📍 Noida
-- Verified student documents for scholarship applications
-- Maintained data records in Excel & internal systems
-- Coordinated with teams for timely application processing
+    String name        = "Abhay Bhatt";
+    String degree      = "B.Tech CSE (Software Engineering)";
+    String college     = "Dr. Virendra Swaroop Group of Institutions";
+    double gpa         = 8.1;
+    String role        = "Tech / UX/UI Design Intern @ Anshumat Foundation";
+    String location    = "Firozabad, Uttar Pradesh, India 📍";
+    String learning    = "React.js & Full Stack Development 🌱";
+    String openTo      = "Internships | Freelance | Full-time Roles 🚀";
+
+    String[] interests = { "Web Development", "UI/UX Design",
+                           "Problem Solving", "Open Source" };
+
+    void sayHello() {
+        System.out.println("Thanks for visiting! Let's build something great 🚀");
+    }
+}
+```
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack & Tools
 
-| Project | Description | Tech |
+<div align="center">
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+
+**🏢 Tech / UX/UI Design Intern — Anshumat Foundation**
+📅 March 2026 – September 2026 &nbsp;|&nbsp; 🌐 Remote
+
+- 🎨 Converting Figma designs to pixel-perfect responsive web pages
+- 💡 Building tech & design solutions for social impact
+- 🌍 Contributing to the mission: **Educate. Employ. Empower.**
+
+<br/>
+
+**🏢 Intern (Delivery Team) — Buddy4Study**
+📅 January 2026 – March 2026 &nbsp;|&nbsp; 📍 Noida
+
+- 📄 Verified student documents for scholarship applications
+- 📊 Maintained data records in Excel & internal systems
+- 🤝 Coordinated with teams for timely application processing
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🖥️ Project | 📝 Description | 🛠️ Tech Stack |
 |---|---|---|
-| 🌐 Bhola.ai | Figma to responsive website with JS animations | HTML, CSS, JS, Figma |
-| 🏠 Ritz-Craft | Real estate platform Figma to web conversion | HTML, CSS, JS |
-| 🔗 API Integration | Real-time data fetching via REST APIs | Python, Requests |
-| 👑 N-Queens Solver | Backtracking algorithm solution | Python, Recursion |
-| 🎯 Number Guessing Game | Interactive CLI game | Python, Random |
+| 🌐 **[Bhola.ai](http://Bhola.ai)** | Figma to responsive website with JS animations | HTML, CSS, JS, Figma |
+| 🏠 **Ritz-Craft** | Real estate platform — Figma to web conversion | HTML, CSS, JS |
+| 🔗 **API Integration** | Real-time data fetching via REST APIs | Python, Requests |
+| 👑 **N-Queens Solver** | Backtracking algorithm solution | Python, Recursion |
+| ☕ **[Java Basics](https://github.com/ab76hay/Java-basics)** | 53+ Java programs covering all core concepts | Java |
+| 🎯 **Number Guessing Game** | Interactive CLI game | Python, Random |
+
+</div>
 
 ---
 
 ## 🏆 Certifications
 
-- ✅ **Data Analyst** — One Roadmap (April 2026) | [Verify](https://www.oneroadmap.io/skills/da/certificate/CERT-2CD7477B)
-- ✅ **Python Programming** — YBI Foundation
-- ✅ **Java Programming** — Infosys Springboard
+<div align="center">
+
+| 🏅 Certificate | 🏢 Issuer | 📅 Date |
+|---|---|---|
+| ✅ Data Analyst | One Roadmap | April 2026 — [Verify 🔗](https://www.oneroadmap.io/skills/da/certificate/CERT-2CD7477B) |
+| ✅ Python Programming | YBI Foundation | — |
+| ✅ Java Programming | Infosys Springboard | — |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ab76hay&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<!-- Stats + Languages side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=ab76hay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab76hay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ab76hay&theme=tokyonight&hide_border=true&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" width="70%"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ab76hay&theme=tokyo-night&hide_border=true&area=true&area_color=6AD3F7&line=6AD3F7&point=FF6B6B" width="95%"/>
+
+<br/><br/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=ab76hay&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" width="95%"/>
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 📈 Skill Proficiency
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-bhatt-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ab76hay)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhattabhay87@gmail.com)
+```
+🌐 HTML / CSS          ████████████████████░   90%
+⚙️  JavaScript          ████████████████░░░░░   75%
+🅱️  Bootstrap           ████████████████████░   90%
+☕  Java               ████████████████░░░░░   75%
+🐍 Python              ██████████████░░░░░░░   70%
+🎨 Figma / UI Design   ████████████████████░   85%
+🗄️  MySQL               █████████████░░░░░░░░   65%
+
+```
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay%20Bhatt-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-bhatt-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-ab76hay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ab76hay)
+[![Email](https://img.shields.io/badge/Email-bhattabhay87@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhattabhay87@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ab76hay/ab76hay/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ab76hay/ab76hay/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ab76hay/ab76hay/output/github-snake.svg"/>
+</picture>
+
+<br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
+
+**⭐ If you like my work, consider giving my repos a star! It means a lot 🙏**
+
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+
+</div>
