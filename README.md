@@ -3,8 +3,10 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Abhay%20Bhatt%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20UX%2FUI%20Designer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18"/>
 
-<!-- ✅ FIXED Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&width=600&height=50&lines=B.Tech+CSE+%40+Dr.+Virendra+Swaroop+GI+🎓;Tech+%26+UX%2FUI+Intern+%40+Anshumat+Foundation+💼;Full+Stack+Developer+in+the+Making+🚀;Open+to+Internships+%26+Freelance+Roles+💼;Learning+React.js+Every+Day+⚛️" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;Java+Programmer;Bootstrap+%7C+HTML+%7C+CSS;Always+learning+new+things!" alt="Typing SVG" />
+</p>
+
 
 <br/><br/>
 
